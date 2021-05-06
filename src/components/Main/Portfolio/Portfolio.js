@@ -22,10 +22,12 @@ export default function Portfolio() {
                       }
                     },
                   ]}>
-                   <img src="http://placekitten.com/g/400/200" width="310" height="310"/>
-                   <img src="http://placekitten.com/g/400/200" width="310" height="310"/>
-                   <img src="http://placekitten.com/g/400/200" width="310" height="310"/>
-                   <img src="http://placekitten.com/g/400/200" width="310" height="310"/>
+                   <a href="https://ru.pras.company/projects/belarus-travel" target='_blank'><div className="portfolio-img portfolio-img1"></div></a>
+                   <a href="https://ru.pras.company/projects/wargaming" target='_blank'><div className="portfolio-img portfolio-img2"></div></a>
+                   <a href="https://ru.pras.company/projects/nn" target='_blank'><div className="portfolio-img portfolio-img3"></div></a>
+                   <a href="https://ru.pras.company/projects/undp" target='_blank'><div className="portfolio-img portfolio-img4"></div></a>
+                   <a href="https://ru.pras.company/projects/lazycard" target='_blank'><div className="portfolio-img portfolio-img5"></div></a>
+                   <a href="https://ru.pras.company/projects/mir-tvr-belarus" target='_blank'><div className="portfolio-img portfolio-img6"></div></a>
                </Carousel>
            </div>
        </div>

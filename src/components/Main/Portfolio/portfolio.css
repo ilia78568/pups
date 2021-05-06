@@ -26,3 +26,31 @@
          margin-left: 300px;
     margin-top: 90px;
 }
+.portfolio-img {
+    border-radius: 10px;
+    width: 310px;
+    height: 310px;
+    background-size: 310px 310px;
+    background-repeat: no-repeat;
+}
+.portfolio-img1 {
+    background-image: url("./images/1.png");
+}
+.portfolio-img:hover {
+    transform: scale(1.1);
+}
+.portfolio-img2 {
+    background-image: url("./images/2.png");
+}
+.portfolio-img3 {
+    background-image: url("./images/3.png");
+}
+.portfolio-img4{
+    background-image: url("./images/4.png");
+}
+.portfolio-img5 {
+    background-image: url("./images/5.png");
+}
+.portfolio-img6 {
+    background-image: url("./images/6.png");
+}

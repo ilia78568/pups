@@ -3,6 +3,30 @@
     /*background: #ee34a9;*/
     font-family: Roboto;
 }
+.contacts-block {
+    display: flex;
+    margin-top: 30px;
+}
+.contacts-block > div:first-child {
+    width: 400px;
+    font-size: 20pt;
+}
+.contacts-block > div:first-child > div:first-child {
+    font-size: 30pt;
+    margin-top: 10px;
+}
+.contacts-block > div:first-child > div:nth-child(2) {
+    margin-top: 30px;
+}
+.contacts-block > div:first-child > div:nth-child(3) {
+        margin-top: 30px;
+}
+.contacts-block > div:first-child > div:nth-child(4) {
+        margin-top: 30px;
+}
+.contacts-block > div:first-child > div:nth-child(5) {
+        margin-top: 30px;
+}
 .contacts > div {
     margin-left: 300px;
     color:white

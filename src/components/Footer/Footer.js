@@ -4,8 +4,13 @@ import './footer.css'
 export default function Footer () {
     return (
         <footer className="footer">
-            <div className="facebook"></div>
-            <div className="inst"></div>
+            <a href="https://www.facebook.com/PRAScompany" target="_blank">
+                <div className="facebook"></div>
+            </a>
+             <a href="https://www.instagram.com/prascompany/" target="_blank">
+                <div className="inst"></div>
+            </a>
+
             <div className="mail">list@pras.by</div>
         </footer>
     )
