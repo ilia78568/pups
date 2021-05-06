@@ -1,0 +1,68 @@
+.modal {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+  position: fixed;
+  top: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.modal-block {
+  margin-bottom: 180px;
+  width: 400px;
+  height: 366px;
+background: #a14853;
+  border-radius: 10px;
+  font-size: 26pt;
+}
+.modal-form {
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.modal-block2 {
+  margin-bottom: 180px;
+  width: 400px;
+  height: 366px;
+background: #a14853;
+  border-radius: 10px;
+  font-size: 26pt;
+}
+label {
+  color: #FFFFFF;
+  font-family: Roboto;
+  margin-top: 10px;
+}
+.modal-block > button
+{
+  width: 120px;
+  height: 30px;
+  font-family: Roboto;
+  font-size: 13pt;
+  background-color: #9c0909;
+  color: white;
+  border-radius: 10px;
+  border:none;
+  cursor: pointer;
+  margin: 43px 0 0 50px
+}
+.modal-block2 > button{
+  width: 120px;
+  height: 30px;
+  font-family: Roboto;
+  font-size: 13pt;
+  background-color: #9c0909;
+  color: white;
+  border-radius: 10px;
+  border:none;
+  cursor: pointer;
+  margin: 43px 0 0 150px
+}
+.modal-block2 > p {
+  color: white;
+  font-family: Roboto;
+  font-size: 33pt;
+  margin:50px 0 0 60px
+}

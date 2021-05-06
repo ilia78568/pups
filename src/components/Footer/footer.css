@@ -1,0 +1,28 @@
+.footer {
+    height: 80px;
+        display: flex;
+
+}
+.facebook {
+    background-image: url("facebook.png");
+    width: 46px;
+    height: 46px;
+    margin: 20px 0 0 200px
+}
+.inst {
+    background-image: url("inst.png");
+    width: 46px;
+    height: 46px;
+        margin: 20px 0 0 100px
+
+}
+.mail {
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+    margin: 20px 0 0 1000px;
+
+color: #FFFFFF;
+}

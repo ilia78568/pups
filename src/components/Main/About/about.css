@@ -1,0 +1,117 @@
+.about {
+    height: 1140px;
+    color: #FFFFFF;
+}
+
+.about-header {
+    padding: 100px 0 0 250px;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+}
+.about-description {
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+width: 80%;
+    margin-top: 20px;
+    margin-left: 250px;
+}
+
+.tech-block {
+    margin-top: 15px;
+    width: 1000px;
+    /*height: 500px;*/
+    /*background: red;*/
+    display: flex;
+    justify-content: space-between;
+}
+.tech-block > div {
+    margin-left: 50px;
+}
+.tech-block > div > div:first-child {
+    font-size: 16pt;
+}
+.tech-table {
+    margin-top: 20px;
+    display: flex;
+    height: 200px;
+}
+.tech-table > div {
+    width: 120px;
+    padding: 5px 0 0 30px;
+    border: 3px solid white;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column
+}
+.tech-table > div:nth-child(2) {
+    width: 500px;
+    padding-left: 40px;
+}
+#myVideo {
+    margin-left: 250px;
+    width: 500px;
+    height: 300px;
+}
+.about-clients {
+    width: 1080px;
+    margin-left: 333px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.about-clients-div {
+    margin-left: 10px;
+    margin-top: 60px;
+    width: 210px;
+    height: 106px;
+    background: #5c1010;
+}
+.img1 {
+    background-image: url("./images/1.png");
+}
+.img2 {
+    background-image: url("./images/2.jpg");
+    background-size: 210px 106px;
+    background-repeat: no-repeat;
+}
+.img3 {
+    background-image: url("./images/3.jpg");
+    background-size: 210px 106px;
+    background-repeat: no-repeat;
+}
+.img4 {
+    background-image: url("./images/4.jpg");
+    background-size: 210px 106px;
+    background-repeat: no-repeat;
+}
+.img5{
+    background-image: url("./images/5.png");
+    background-size: 210px 106px;
+    background-repeat: no-repeat;
+}
+.img6 {
+    background-image: url("./images/6.jpeg");
+    background-size: 210px 106px;
+    background-repeat: no-repeat;
+}
+.img7 {
+    background-image: url("./images/7.png");
+    background-size: 210px 106px;
+    background-repeat: no-repeat;
+}
+.img8 {
+    background-image: url("./images/8.jpg");
+    background-size: 210px 106px;
+    background-repeat: no-repeat;
+}
+.clients {
+    left: 85px;
+        font-size: 25pt;
+    margin-left: 259px;
+    position: relative;
+    top: 33px;
+}

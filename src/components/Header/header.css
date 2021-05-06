@@ -1,0 +1,38 @@
+.header {
+    display: flex;
+    color:white;
+    font-size: 30pt;
+    justify-content: space-between;
+}
+.logo {
+    width: 140px;
+    height: 30px;
+    margin-left: 100px;
+    margin-top:20px;
+    background-repeat: no-repeat;
+    background-image: url("../../assets/images/Frame.png");
+}
+.navlink {
+    margin-top:20px;
+    margin-right: 200px;
+    width: 540px;
+    display: flex;
+    justify-content: space-between;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #FFFFFF;
+ }
+
+.selected {
+    color:wheat;
+    text-decoration: none;
+    font-size: 18pt;
+}
+.link {
+    color: wheat;
+    text-decoration: none;
+}
