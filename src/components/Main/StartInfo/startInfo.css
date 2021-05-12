@@ -51,3 +51,7 @@
     line-height: 42px;
     color: #FFFFFF;
 }
+.startInfo-btn:hover {
+    cursor: pointer;
+    border: 2px solid #f3f3f3;
+}

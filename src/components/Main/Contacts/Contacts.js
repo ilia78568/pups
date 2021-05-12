@@ -20,7 +20,7 @@ export default function Contacts() {
                </div>
                <div className="map">
                    <iframe
-                       src="https://www.google.com/maps/embed?pb=!1m21!1m12!1m3!1d4697.259136158952!2d27.598058258508164!3d53.93832465179646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m6!3e6!4m0!4m3!3m2!1d53.9394366!2d27.5975847!5e0!3m2!1sen!2sby!4v1620311514230!5m2!1sen!2sby"
+                       src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d3949.797592235171!2d27.594181219716734!3d53.93949475805525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x46dbcf6b30086775%3A0x77743115e32337db!2sUlitsa%20Vostochnaya%20129%2C%20Minsk!3m2!1d53.939455599999995!2d27.5975918!5e0!3m2!1sen!2sby!4v1620374117815!5m2!1sen!2sby"
                        width="600" height="450"  allowFullScreen="" loading="lazy"></iframe>
                </div>
            </div>

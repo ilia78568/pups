@@ -15,13 +15,13 @@ export default function Modal(props) {
             {!isConfirm ? <div className="modal-block">
                 <form className="modal-form">
                     <label> Как вас зовут?</label>
-                    <input type='text' />
+                    <input type='text' className="modal-input1"/>
                     <label> Ваш номер телефона?</label>
-                    <input type='phone' />
+                    <input type='phone' className="modal-input1"/>
                     <label> Ваша почта?</label>
-                    <input type='mail' />
+                    <input type='mail' className="modal-input1" />
                      <label> Краткое описание</label>
-                    <input type='text' />
+                    <input type='text' className="modal-input1"/>
 
                 </form>
                 <button onClick={close}>Закрыть</button>
