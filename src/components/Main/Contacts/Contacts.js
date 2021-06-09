@@ -15,7 +15,7 @@ export default function Contacts() {
                    <div>Главный офис</div>
                    <div>+375 17 280-67-04</div>
                    <div>list@pras.by</div>
-                   <div>ул. Восточная 129, 2 220113, г. Минск</div>
+                   <div>ул. Восточная 129, 2 220113, <br/>г. Минск</div>
 
                </div>
                <div className="map">

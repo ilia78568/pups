@@ -5,7 +5,7 @@
     height: 400px;
 }
 .portfolio {
-    height: 751px;
+    /*height: 751px;*/
     font-family: Roboto;
     color:white
 }
@@ -20,6 +20,8 @@
      margin-left: 300px;
     margin-top: 30px;
 }
+
+
 .portfolio > div:nth-child(3) {
     font-size: 30px;
      position: relative;
@@ -37,7 +39,11 @@
     background-image: url("./images/1.png");
 }
 .portfolio-img:hover {
-    transform: scale(1.1);
+    transform: scale(0.96);
+    transition: 0.4s;
+     border-radius: 10px;
+    cursor: pointer;
+
 }
 .portfolio-img2 {
     background-image: url("./images/2.png");
@@ -53,4 +59,117 @@
 }
 .portfolio-img6 {
     background-image: url("./images/6.png");
+}
+
+
+.portfoli1 {
+    display: flex;
+}
+
+.portfolio1 img {
+    width: 650px;
+    height: 400px;
+    padding-top: 186px;
+    padding-bottom: 60px;
+}
+.portfolio1 div:first-child {
+    font-size: 50pt;
+}
+.portfolio1 div:nth-child(2)  {
+    justify-content: space-between;
+    width: 90%;
+    padding-top: 100px;
+    display: flex;
+}
+.secondP {
+    padding-top: 50px !important;
+}
+.portfolio1 div:nth-child(2) div {
+    font-size: 25pt;
+    width: 600px;
+}
+.nazad {
+    position: absolute;
+    left: 67%;
+    font-size: 25pt !important;
+    width: 130px;
+    height: 58px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid white;
+    border-radius: 15px;
+}
+
+.nazad:hover {
+    background: white;
+    color: #C70047;
+    cursor: pointer;
+    transition: 0.4s;
+}
+#root > div > div > div > div.swiper > div > div > button.BrainhubCarousel__arrows.BrainhubCarousel__arrowLeft {
+    background: #C70047 !important;
+    border-radius: 8px !important;
+}
+#root > div > div > div > div.swiper > div > div > button.BrainhubCarousel__arrows.BrainhubCarousel__arrowRight {
+    background-color: #3F3F3F !important;
+    border-radius: 8px !important;
+}
+.select_team_header {
+     display: flex;
+        cursor: pointer;
+        margin-bottom: 0.8em;
+        padding: 0.4em 2em 0.4em 1em;
+        background: blue;
+}
+.select_header_name {
+   color: white;
+    margin-top: 20px;
+    width:230px;
+cursor: pointer;
+    border: 2px solid white;
+    border-radius: 4px;
+    font-size: 14pt;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.select_team_header_name {
+     display: flex;
+          flex-direction: column;
+          /*margin: 6px 0 0 12px;*/
+}
+
+.select_list {
+     position: absolute;
+        cursor: pointer;
+        background: white;
+        padding: 16px;
+        border-radius: 8px;
+    width: 203px;
+}
+.select_header {
+    height: 61px;
+}
+
+.select_list li {
+          height: 48px;
+          list-style: none;
+          border-radius: 8px;
+          display: flex;
+          align-items: center;
+          padding-left: 8px;
+    font-size: 14pt;
+}
+.select_list li:hover {
+    background-color: #C70047;
+    color: white;
+}
+.arrow {
+    position: relative;
+        top: 74px;
+    left: 101px;
+    transform: rotate(90deg);
 }

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="766f717f-be81-4fe9-b567-203ed61e28bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/components/Main/Modal/Modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/Modal/Modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/Modal/modal.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/Modal/modal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/Portfolio/Portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/Portfolio/Portfolio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/Portfolio/portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/Portfolio/portfolio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Main/Services/Services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main/Services/Services.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1teXVPOI5Kvf7Lvz6jCDPAMoFaG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../wildkard-webapp" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Main/Modal" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="766f717f-be81-4fe9-b567-203ed61e28bb" name="Default Changelist" comment="" />
+      <created>1623130552115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623130552115</updated>
+      <workItem from="1623130555801" duration="434000" />
+      <workItem from="1623152074084" duration="632000" />
+      <workItem from="1623168473327" duration="7230000" />
+      <workItem from="1623219175063" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

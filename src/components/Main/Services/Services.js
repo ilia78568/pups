@@ -33,7 +33,7 @@ export default function Services(props) {
            </div>
            <button className="services-btn" onClick={setM}>Заказать</button>
        </div>
-            {props.isModal && <Modal closeModal={props.closeModal}/>}
+            {props.isModal && <Modal select closeModal={props.closeModal}/>}
             </>
     )
 }
